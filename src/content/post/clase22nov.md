@@ -1,9 +1,12 @@
 ---
-title: "Primera clase, prototipo incial"
-description: "Prototipos rápidos hechos en primera clase"
-publishDate: "29 Nov 2024"
+title: "Primera clase 22 Nov"
+description: "Prototipado rápido de vóxeles utilizando cartón, maskingtape, y un brazo robótico para simular el movimiento."
+publishDate: "22 Nov 2024"
 tags: ["fast prototype"]
 ---
 
-Hola! Este es el primer post que hago para la bitácora. La idea es empezar a probar y acostumbrarme a Markdown para publicar cosas.
+Se usó cartón y maskintape para realizar vóxeles cuboctaédricos. Para ello se unen 6 cuadrados, punta con punta, dejando espacios triangulares entre los lados de cada cuadrado.
 
+![GIF movimiento robótico](./bitacora-clase1.gif)
+
+Básicamente se improvisó un brazo robótico utilizando cartón, maskin, y un brazo robótico.
