@@ -69,8 +69,8 @@ export const expressiveCodeOptions: AstroExpressiveCodeOptions = {
 		}
 		// return default selector
 		return `[data-theme="${theme.name}"]`;
-	},
+  },
 	// One dark, one light theme => https://expressive-code.com/guides/themes/#available-themes
-	themes: ["catppuccin-latte"]; ["catppuccin-macchiato"];
-	useThemedScrollbars: true,
+	themes: ["catppuccin-macchiato", "catppuccin-latte"],
+	useThemedScrollbars: false,
 };
