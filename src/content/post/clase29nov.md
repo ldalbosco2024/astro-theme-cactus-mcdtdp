@@ -1,5 +1,5 @@
 ---
-title: "Clase 29 Nov - Diseño de experimento para lograr primer prototipo."
+title: "Clase 29 Nov - Diseño de experimento. Encargo 1."
 description: "Diseño de experimento para lograr primer prototipo. Diseño de experimento para lograr primer prototipo."
 publishDate: "29 Nov 2024"
 tags: ["test", "encargo", "sistema"]
