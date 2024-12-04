@@ -5,8 +5,7 @@ publishDate: "03 Dec 2024"
 tags: ["test"]
 ---
 
-El fin de semana me compré una polera de Depredador. Un poco edgy, debo admitir. 
-![predator-shirte](https://github.com/user-attachments/assets/4ec71026-7fe3-4101-9c8f-f9fa7e45fe28)
+El fin de semana me compré una polera de Depredador. Un poco edgy, debo admitir.
 
 Dando vueltas a potenciales mecanismos de unión pensé en algo similar a la boca de los depredadores. 
 Un mecanismo así funcionaría con un movimiento lineal, que simplemente acerque las uniones, y un mecanismo lineal que se deforme para sostener a su contraparte.
@@ -38,46 +37,6 @@ En paralelo se puede diseñar el efector robótico, por ahora, tiene los siguien
 - Debe poder entrar al mismo tiempo por los triángulos del vóxel.
 - Debe poder rotar para adaptarse a un vóxel X y un vóxel +.
 - Debe tener un actuador lineal de dos fases, o dos actuadores lineales. Así el efector podrá acercar las partes y luego accionar las pinzas.
-
-En presudocódigo, el efector hace lo sgte: 
-
-```md
-#Pseudocódigo para representar bloqueo
-
-Mover posición_inicial;
-
-if voxelA == voxelX {
-  Rotar efectorA;
-  } else {
-  Rotar efectorB;
-}
-
-Accionar efectorA.movLineal;
-Accionar efectorB.movLineal; #Estas líneas deberían ocurrir en paralelo
-
-Esperar accionLineal;
-
-Accionar efectorA.movPinzas;
-Accionar efectorB.movPinzas;
-
-Esperar accionPinzas;
-
-Soltar efectorA.movPinzas;
-Soltar efectorB.movPinzas;
-
-Esperar accionPinzas;
-
-Soltar efectorA.movPinzas;
-Soltar efectorB.movPinzas;
-
-Esperar accionPinzas;
-
-Soltar efectorA.movLineal;
-Soltar efectorB.movLineal;
-
-Mover posición_final;
-
-```
 
 
 Se ve entretenida la tesis, ojalá resulte. 
