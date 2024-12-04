@@ -1,6 +1,6 @@
 ---
 title: "Descubrimiento Predator"
-description: "El fin de semana me compré una polera de Depredador. Un poco edgy, debo admitir. Dando vueltas a potenciales mecanismos de unión pensé en algo similar a la boca de los depredadores."
+description: "El fin de semana me compré una polera de Depredador. Un poco edgy, debo admitir."
 publishDate: "03 Dec 2024"
 tags: ["test"]
 ---
@@ -30,9 +30,54 @@ Los pasos a seguir son hacer un prototipo que incluya el segundo movimiento line
 Además, ahora hay que leer en detalle los libros de diseño de mecanismos complacientes, y empezart a familiarizarme con los softwares de optimización topológica para mecanismos complacientes. 
 También es importante buscar materiales y métodos de fabricación adecuados.
 
+![ambos-voxeles-iso](https://github.com/user-attachments/assets/01bdf6fe-8bf1-4059-ae5d-dd7003568a34)
+![ambos-voxeles-rontal](https://github.com/user-attachments/assets/5f8631f3-43f1-497b-9ace-9250e1cc6702)
+
+
 En paralelo se puede diseñar el efector robótico, por ahora, tiene los siguientes requerimientos:
 - Debe poder entrar al mismo tiempo por los triángulos del vóxel.
 - Debe poder rotar para adaptarse a un vóxel X y un vóxel +.
 - Debe tener un actuador lineal de dos fases, o dos actuadores lineales. Así el efector podrá acercar las partes y luego accionar las pinzas.
+
+En presudocódigo, el efector hace lo sgte: 
+
+```md
+#Pseudocódigo para representar bloqueo
+
+Mover posición_inicial;
+
+if voxelA == voxelX {
+  Rotar efectorA;
+  } else {
+  Rotar efectorB;
+}
+
+Accionar efectorA.movLineal;
+Accionar efectorB.movLineal; #Estas líneas deberían ocurrir en paralelo
+
+Esperar accionLineal;
+
+Accionar efectorA.movPinzas;
+Accionar efectorB.movPinzas;
+
+Esperar accionPinzas;
+
+Soltar efectorA.movPinzas;
+Soltar efectorB.movPinzas;
+
+Esperar accionPinzas;
+
+Soltar efectorA.movPinzas;
+Soltar efectorB.movPinzas;
+
+Esperar accionPinzas;
+
+Soltar efectorA.movLineal;
+Soltar efectorB.movLineal;
+
+Mover posición_final;
+
+```
+
 
 Se ve entretenida la tesis, ojalá resulte. 
