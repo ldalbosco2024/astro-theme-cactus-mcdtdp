@@ -1,5 +1,5 @@
 ---
-title: "Descubrimiento Predator"
+title: "Avance - Descubrimiento Predator"
 description: "El fin de semana me compré una polera de Depredador. Un poco edgy, debo admitir."
 publishDate: "03 Dec 2024"
 tags: ["test"]
