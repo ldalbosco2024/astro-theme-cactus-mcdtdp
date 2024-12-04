@@ -1,7 +1,7 @@
 ---
-title: "Avance - Pseudocódigo Predator"
+title: "Pseudocódigo Predator"
 description: "Pseudocódigo de cómo funcionaría el efector con el sistema Predator. aaaaaaaaaa"
-publishDate: "03 Dec 2024"
+publishDate: "04 Dec 2024"
 tags: ["test"]
 ---
 
