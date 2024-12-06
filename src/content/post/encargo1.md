@@ -1,8 +1,8 @@
 ---
 title: "Encargo 1"
-description: "Diseño del set up, diagrama de flujo, sistema de testing. "
-publishDate: "29 Nov 2024"
-tags: ["test"]
+description: "Diseño del set up, diagrama de flujo, sistema de testing. Diseño del set up, diagrama de flujo, sistema de testing."
+publishDate: "06 Dic 2024"
+tags: ["encargo"]
 ---
 
 Para el primer encargo se solicitó:
@@ -36,3 +36,9 @@ Dado esto, se plantea lo siguiente:
 ```
 
 A continuación, se adjuntan fotografías rápidas de la máquina:
+
+![maquina](https://github.com/user-attachments/assets/73943a6c-b606-46e9-a32e-7bc181aca0b2)
+![detallemaquina](https://github.com/user-attachments/assets/1cba9e2c-dcb5-4fcb-ac75-29a742efab10)
+![alturamaquina](https://github.com/user-attachments/assets/60cc2d95-db65-457d-8446-fb8dd130b321)
+![modelomaquina](https://github.com/user-attachments/assets/1973782b-4026-4f62-98dc-d6fc7d5aa023)
+
