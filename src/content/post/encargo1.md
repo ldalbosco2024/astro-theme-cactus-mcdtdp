@@ -1,6 +1,6 @@
 ---
 title: "Encargo 1"
-description: "Diseño del set up, diagrama de flujo, sistema de testing. Diseño del set up, diagrama de flujo, sistema de testing."
+description: "Diseño del set up, diagrama de flujo, sistema de testing."
 publishDate: "06 Dic 2024"
 tags: ["encargo"]
 ---
