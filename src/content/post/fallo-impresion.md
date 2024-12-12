@@ -1,7 +1,7 @@
 ---
 title: "Avance - Fallos en el test"
 description: "En fin, aquí van unas fotos del mecanismo lineal, que tienen pegadas las pinzas que fallaron"
-publishDate: "11 Dic 2024"
+publishDate: "11 Dec 2024"
 tags: ["test"]
 ---
 
