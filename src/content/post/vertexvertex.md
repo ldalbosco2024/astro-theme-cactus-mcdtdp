@@ -2,12 +2,12 @@
 title: "Formoso: Vertex-Vertex vs. Face-Face"
 description: "Se habla con Formoso acerca de posibles configuraciones de uniones."
 publishDate: "26 Dec 2024"
-tags: ["test"]
+tags: ["formoso"]
 ---
 
 Hace tiempo estoy hablando por LinkedIn con Olivia Formoso, una investigadora que se repite mucho en los papers que he revisado.
 
-Ella tiene trabajo específicamente en dos papers muy importantes para esta investigación:
+Ella tiene trabajo específicamente en tres papers muy importantes para esta investigación:
 
 Geometry Systems for Lattice-Based Reconfigurable Space Structures (DOI: 10.1109/AERO.2019.8742178)
 
@@ -15,7 +15,8 @@ Geometry Systems for Lattice-Based Reconfigurable Space Structures (DOI: 10.1109
 
 Androgynous Fasteners for Robotic Structural Assembly (DOI: 10.1109/AERO47225.2020.9172583)
 
-- Este trabajo busca un sistema de unión vértice-vértice entre vóxeles que pueda ser accionado por agentes robóticos. Este trabajo tiene asociada una patente https://technology.nasa.gov/patent/TOP2-310 y Olivia señala que por lo mismo no puede entregarme un modelo 3D.
+- Este trabajo busca un sistema de unión vértice-vértice entre vóxeles que pueda ser accionado por agentes robóticos.
+- Este trabajo tiene asociada una [patente](https://technology.nasa.gov/patent/TOP2-310) y Olivia señala que por lo mismo no puede entregarme un modelo 3D.
 
 MMIC-I: A robotic platform for assembly integration and internal locomotion through mechanical meta-material structures (DOI: 10.1109/ICRA48891.2023.10161263)
 
