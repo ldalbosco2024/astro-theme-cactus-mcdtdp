@@ -14,4 +14,5 @@ Además se afinaron otros temas y se conversó la posibilidad de utilizar optimi
 
 Estas opiniones son muy relevantes porque dan paso a diseñar un sistema mucho más sencillo a nivel de geometría, a nivel de operación con el efector robótico, y a nivel del movimiento mismo que las piezas deben realizar. Aquí la primera iteración:
 
-IMAGEN 
+![voxelmacho](https://github.com/user-attachments/assets/07cb419f-74af-447b-80f0-3d235aabfb4a)
+![voxelhembra](https://github.com/user-attachments/assets/7996544c-e895-44c3-b932-6e4685b699e4)
