@@ -7,4 +7,4 @@ tags: ["test"]
 
 Se imprimió la versión en PLA 6 veces, para poder llegar con al menos dos vóxeles a la entrega.
 
-IMAGEN
+![impresionvoxel](https://github.com/user-attachments/assets/2f2fd637-4b74-4891-add2-cbbfde21f916)
