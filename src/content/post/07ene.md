@@ -7,7 +7,7 @@ tags: ["test"]
 
 Luego de conversar con Ulises, se determinó que el sistema de unión es muy complejo, pues debe, además de moverse en direcciones opuestas y engancharse consigo mismo, tener un comportamiento similar al de un lapiz que hace clic en dos estados. Esto va con la lógica de Tibbits de programar materiales, pero es un desafío realmente complejo.
 
-GIF LAPIZ
+![IMG_9352](https://github.com/user-attachments/assets/10ffcef6-63ae-45ec-8807-650c5084df1c)
 
 Una sugerencia de Ulises fue diseñar módulos que vayan, paso a paso, intentando acercarse a la solución, antes de utilizar sistemas de optimización topológica como tOpos, FUsion, NTopology, etc. Se diseñó una base cortable en MDF para poder probar estos distintos sistemas. 
 
